@@ -1,20 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Nav from "./components/adminhtml/Nav";
-import './assets/vendors/css/bootstrap.min.css';
-import 'assets/vendors/css/vendors.min.css';
-import 'assets/vendors/css/dataTables.bs5.min.css';
-import 'assets/vendors/css/select2.min.css';
-import 'assets/vendors/css/select2-theme.min.css';
-import 'assets/css/theme.min.css';
 
-import 'assets/vendors/js/vendors.min.js';
-import 'assets/vendors/js/dataTables.min.js';
-import 'assets/vendors/js/dataTables.bs5.min.js';
-import 'assets/vendors/js/select2.min.js';
-import 'assets/vendors/js/select2-active.min.js';
-import 'assets/vendors/js/common-init.min.js';
-import 'assets/vendors/js/projects-init.min.js';
-import 'assets/vendors/js/theme-customizer-init.min.js';
+// import './assets/css/bootstrap.min.css';
+// import './assets/vendors/css/vendors.min.css';
+// import './assets/vendors/css/dataTables.bs5.min.css';
+// import './assets/vendors/css/select2.min.css';
+// import './assets/vendors/css/select2-theme.min.css';
+// import './assets/css/theme.min.css';
 
 function App() {
   return (
